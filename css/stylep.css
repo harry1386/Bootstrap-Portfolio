@@ -1,0 +1,98 @@
+#hm {
+	position: relative;
+	margin-bottom: 20px;
+
+}
+
+#hmh {
+	display: inline-block;
+	position: absolute;
+	width: 162%;
+	height: 18%;
+	bottom: 13px;
+	left: 15px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 6px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+#rpg {
+	position: relative;
+}
+
+#rpgh {
+	display: inline-block;
+	position: absolute;
+	width: 162%;
+	height: 18%;
+	bottom: 13px;
+	left: 15px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 6px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+#tri {
+	position: relative;
+	margin-bottom: 20px;
+}
+
+#trih {
+	display: inline-block;
+	position: absolute;
+	width: 162%;
+	height: 18%;
+	bottom: 13px;
+	left: 15px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 6px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+#wid {
+	position: relative;
+}
+
+#widh {
+	display: inline-block;
+	position: absolute;
+	width: 162%;
+	height: 18%;
+	bottom: 13px;
+	left: 15px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 6px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+#rps {
+	position: relative;
+	margin-bottom: 20px;
+}
+
+#rpsh {
+	display: inline-block;
+	position: absolute;
+	width: 162%;
+	height: 18%;
+	bottom: 13px;
+	left: 15px;
+	background-color: #4aaaa5;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 6px;
+	padding-bottom: 10px;
+	color: white;
+}
